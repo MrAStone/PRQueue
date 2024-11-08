@@ -2,14 +2,14 @@ Priortiy Queue
 
 Creating Priority Queue
 
-```c#
+```cs
 PRQueue<data type> identifier = new PRQueue(number of levels required)
 '''
 
 Methods
 Enqueue
 
-'''c#
+'''cs
 Enqueue(T value,int priority)
 '''
 
