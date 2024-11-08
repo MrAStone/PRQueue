@@ -2,9 +2,9 @@ Priortiy Queue
 
 Creating Priority Queue
 
-
+<pre lang=C#><code>
 PRQueue<data type> identifier = new PRQueue(number of levels required)
-
+</code></pre>
 
 Methods
 Enqueue
